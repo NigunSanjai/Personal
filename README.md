@@ -1,12 +1,12 @@
-<h1 align="left">Hey there..! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="35" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
-<h2> I'm <b><b>𝗣𝗿𝗮𝘃𝗶𝗻 𝗞𝗮𝗻𝘁𝗵</b></b>, an adamant</h2>
-<h2 align="left"><em>Learn..! Innovate..!</em></h2></br>
+<h1 align="left">Hello World..! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="35" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
+<h2> I'm <b><b>Nigun Sanjai RadhaKrishnan</b></b></h2>
+<h2 align="left"><em>Belive! Think! Become!</em></h2></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkanth&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkanth" /> </p>
 
-- 👨‍🎓 Pursuing III BE CSE at 𝗞𝗣𝗥𝗜𝗘𝗧
+- 👨‍🎓 Pursuing III BE CSE at <b>KPR Institute of Engineering and Technology</b>
 
-- 📄 Check out my Resume [Here](https://drive.google.com/file/d/181rsM4FMiP2m3sqYi_WAJ6arq678EJ_P/view?usp=sharing)
+- 📄 Check out my Resume [Here](https://drive.google.com/file/d/1ZxjS-sGyno5RWRKqbk1xLb9EaRNDHv1T/view?usp=sharing)
 </br>
 <h3 align="center" ><b>SKILLS & TECHNOLOGIES</b></h3></br>
 <p align="center"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>&nbsp; &nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> &nbsp; &nbsp; <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/> </a>&nbsp; &nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>&nbsp; &nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> </br></br><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> &nbsp; &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>&nbsp; &nbsp; <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="60" height="60"/> </a> </p></br>
