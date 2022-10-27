@@ -15,14 +15,12 @@
 <p align="center">
 <a href="https://www.guvi.in/radhanigun47" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/lAFgx9P9v6g9CGiJ4yXEghRTGikQg88xuxOg30t_licriW4ODAyXVK4NHBJj-HGILw=w480-h960-rw" alt="pravin-kanth" height="50" width="50" /></a>&nbsp;
 <a href="https://www.hackerrank.com/radha_nigun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@p_kanth" height="30" width="60" /></a>&nbsp;
-<a href="https://www.leetcode.com/pravinkanth" target="_blank"><img align="center" src="https://assets.interviewbit.com/assets/ibpp/brand-5c6255a15a1b1307a1b8a2bf0bcb149b1ff9513ab2854c7d391b3faf5f33848f.svg.gz" alt="pravinkanth" height="30" width="60" /></a>&nbsp;
-<a href="https://www.codechef.com/users/pravinkanth" target="_blank"><img align="center" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="pravinkanth" height="30" width="40" /></a>&nbsp;
+<a href="https://www.interviewbit.com/profile/20CS109" target="_blank"><img align="center" src="https://assets.interviewbit.com/assets/ibpp/brand-5c6255a15a1b1307a1b8a2bf0bcb149b1ff9513ab2854c7d391b3faf5f33848f.svg.gz" alt="pravinkanth" height="30" width="60" /></a>&nbsp;
+<a href="https://www.codechef.com/users/ironside2003" target="_blank"><img align="center" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="pravinkanth" height="30" width="40" /></a>&nbsp;
 </p></br>
 <h3 align="center" ><b>CONNECT WITH ME</b></h3></br>
 <p align="center">
-&nbsp;&nbsp;<a href="mailto:r.pravinkanth653@gmail.com" target="_blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="pravin-kanth" height="27" width="35" /></a>&nbsp;
-<a href="https://instagram.com/p._.kanth.__.03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p._.kanth.__.03" height="30" width="60" /></a>
-<a href="https://www.linkedin.com/in/pravin-kanth-a71755205/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravin-kanth" height="29" width="60" style="padding-bottom:7px;" /></a>
-<a href="https://www.youtube.com/channel/UCQBBrTP7juUvB5ElTlUR-6w" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mcpyon" height="30" width="60" style="padding-top:8px;" /></a>
+&nbsp;&nbsp;<a href="mailto:radha.nigun@gmail.com" target="_blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="pravin-kanth" height="27" width="35" /></a>&nbsp;
+<a href="https://instagram.com/nigun2003" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p._.kanth.__.03" height="30" width="60" /></a>
+<a href="https://www.linkedin.com/in/nigun-sanjai-650a011b6/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravin-kanth" height="29" width="60" style="padding-bottom:7px;" /></a>
 </p>
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" height="300" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
