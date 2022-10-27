@@ -13,9 +13,9 @@
 
 <h3 align="center" ><b>CODING PROFICIENCY</b></h3></br>
 <p align="center">
-<a href="https://www.guvi.in/rpravinkanth653" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/lAFgx9P9v6g9CGiJ4yXEghRTGikQg88xuxOg30t_licriW4ODAyXVK4NHBJj-HGILw=w480-h960-rw" alt="pravin-kanth" height="50" width="50" /></a>&nbsp;
-<a href="https://www.hackerrank.com/P_Kanth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@p_kanth" height="30" width="60" /></a>&nbsp;
-<a href="https://www.leetcode.com/pravinkanth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pravinkanth" height="30" width="60" /></a>&nbsp;
+<a href="https://www.guvi.in/radhanigun47" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/lAFgx9P9v6g9CGiJ4yXEghRTGikQg88xuxOg30t_licriW4ODAyXVK4NHBJj-HGILw=w480-h960-rw" alt="pravin-kanth" height="50" width="50" /></a>&nbsp;
+<a href="https://www.hackerrank.com/radha_nigun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@p_kanth" height="30" width="60" /></a>&nbsp;
+<a href="https://www.leetcode.com/pravinkanth" target="_blank"><img align="center" src="https://assets.interviewbit.com/assets/ibpp/brand-5c6255a15a1b1307a1b8a2bf0bcb149b1ff9513ab2854c7d391b3faf5f33848f.svg.gz" alt="pravinkanth" height="30" width="60" /></a>&nbsp;
 <a href="https://www.codechef.com/users/pravinkanth" target="_blank"><img align="center" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="pravinkanth" height="30" width="40" /></a>&nbsp;
 </p></br>
 <h3 align="center" ><b>CONNECT WITH ME</b></h3></br>
